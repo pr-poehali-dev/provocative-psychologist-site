@@ -69,8 +69,8 @@ export default {
 				sm: 'calc(var(--radius) - 4px)'
 			},
 			fontFamily: {
-				'heading': ['Cormorant', 'serif'],
-				'body': ['Open Sans', 'sans-serif']
+				'heading': ['Bebas Neue', 'sans-serif'],
+				'body': ['Inter', 'sans-serif']
 			},
 			keyframes: {
 				'accordion-down': {
